@@ -1,4 +1,5 @@
 # upload-image
+[![npm](https://img.shields.io/npm/v/js-upload-image.svg)](https://www.npmjs.com/package/js-upload-image)
 > [English Readme](https://github.com/lixilin123/upload-image)
 ### 1. 简介
 本仓库封装了一个用于移动端上传图片的对象
