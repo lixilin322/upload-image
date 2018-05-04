@@ -1,5 +1,5 @@
 # upload-image
-> [中文文档]()
+> [中文文档](https://github.com/lixilin123/upload-image/blob/master/README-zh.md)
 ### 1 Introduction
 This is a github repository with an object for mobile upload images
 ### 2. Usage

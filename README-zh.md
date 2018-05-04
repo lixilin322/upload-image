@@ -1,5 +1,5 @@
 # upload-image
-> [English Readme]()
+> [English Readme](https://github.com/lixilin123/upload-image)
 ### 1. 简介
 本仓库封装了一个用于移动端上传图片的对象
 ### 2. 使用方法
