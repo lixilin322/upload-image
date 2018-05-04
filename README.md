@@ -2,14 +2,14 @@
 [![npm](https://img.shields.io/npm/v/js-upload-image.svg)](https://www.npmjs.com/package/js-upload-image)
 > [中文文档](https://github.com/lixilin123/upload-image/blob/master/README-zh.md)
 ### 1 Introduction
-This is a github repository with an object for mobile upload images
+This is a github repository with an object for mobile upload images.
 ### 2. Usage
 1. **Installation**
-- Method 1: Use the `npm` command to install, `npm install --save js-upload-image`
-- Method 2: Copy the contents of the `upload-image.js` file in the root directory to the js file you created yourself
+- Method 1: Use the `npm` command to install, `npm install --save js-upload-image`.
+- Method 2: Copy the contents of the `upload-image.js` file in the root directory to the js file you created yourself.
 2. **Import**
 - Import using ES6: `import uploadImg from 'js-upload-image'`
-(You can choose the name according to your preferences when importing, temporarily use `uploadImg`)
+(You can choose the name according to your preferences when importing, temporarily use `uploadImg`).
 ### 3. API
 The calling method and parameters are described as follows:
 ```javascript
