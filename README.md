@@ -18,7 +18,7 @@ uploadImg.start({
     url:'', // The address to upload
     params:{}, // Uploads the carried parameter
     callback:(res)=>{}, // The uploaded callback function
-	dataType:'',  // The result data type, default 'json'
+    dataType:'',  // The result data type, default 'json'
     withCredentials:false, // whether the request carries a cookie, the default is not
     imgMaxSize:1024 * 1024 * 10, // Maximum size allowed for image upload, default 10M
     imgShouldCompressSize:1024 * 200 // When the image size is greater than imgShouldCompressSize to compress, default 200k

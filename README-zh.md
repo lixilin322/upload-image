@@ -18,7 +18,7 @@ uploadImg.start({
     url:'',  // 要上传的地址
     params:{},  // 上传携带的参数
     callback:(res)=>{},  // 上传完毕的回调函数
-	dataType:'',  // 返回数据的格式，默认json
+    dataType:'',  // 返回数据的格式，默认json
     withCredentials:false,  // 请求是否携带cookie，默认不带
     imgMaxSize:1024 * 1024 * 10,  // 图片上传所允许的最大尺寸，默认10M
     imgShouldCompressSize:1024 * 200  // 图片尺寸大于多少就压缩，默认200k
