@@ -1,4 +1,4 @@
-#upload-image
+# upload-image
 > [English Readme]()
 ### 1. 简介
 本仓库封装了一个用于移动端上传图片的对象
