@@ -13,7 +13,7 @@ This is a github repository with an object for mobile upload images
 The calling method and parameters are described as follows:
 ```javascript
 uploadImg.start({
-  event:event, // event object in the onchange event of input
+    event:event, // event object in the onchange event of input
     Url:'', // The address to upload
     Params:{}, // Uploads the carried parameter
     Callback:(res)=>{}, // The uploaded callback function

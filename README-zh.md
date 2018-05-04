@@ -13,7 +13,7 @@
 调用方式及参数说明如下
 ```javascript
 uploadImg.start({
-  event:event,  // input的onchange事件里的事件对象
+    event:event,  // input的onchange事件里的事件对象
     url:'',  // 要上传的地址
     params:{},  // 上传携带的参数
     callback:(res)=>{},  // 上传完毕的回调函数
