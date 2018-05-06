@@ -1,5 +1,5 @@
 # upload-image
-[![npm](https://img.shields.io/npm/v/js-upload-image.svg)](https://www.npmjs.com/package/js-upload-image)
+[![npm](https://img.shields.io/npm/v/js-upload-image.svg)](https://www.npmjs.com/package/js-upload-image) [![npm](https://img.shields.io/npm/dt/js-upload-image.svg)](https://www.npmjs.com/package/js-upload-image)
 > [中文文档](https://github.com/lixilin123/upload-image/blob/master/README-zh.md)
 ### 1 Introduction
 This is a github repository with an object for mobile upload images.
