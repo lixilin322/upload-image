@@ -11,7 +11,7 @@
 - 使用ES6的方式引入：`import uploadImg from 'js-upload-image'`
 （引入的时候可以根据自己喜好选取名字，这里暂用 `uploadImg` ）
 ### 3. API
-调用方式及参数说明如下
+调用方式及参数说明如下：
 ```javascript
 uploadImg.start({
     event:event,  // input的onchange事件里的事件对象
